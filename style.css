@@ -26,9 +26,7 @@ html {
     --radius-pill: 9999px;
     --transition-smooth: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
 }
-/* ==========================================
-   Minimal Techy Background Pattern
-   ========================================== */
+
 
 body {
     background-color: #faf9f6; /* Warm light base */
@@ -147,13 +145,13 @@ body {
     box-shadow: 0 0 8px var(--mono-white);
 }
 
-/* Mobile Toggle - Invisible on Desktop */
+/* Mobile Toggle*/
 .nav-toggle-input, .nav-toggle-button {
     display: none;
 }
-/* ==========================================
+/* 
    Hero Section Styles (Clean & Compact)
-   ========================================== */
+   */
 
 .hero {
     min-height: 85vh;
@@ -281,9 +279,9 @@ body {
         height: 160px;
     }
 }
-/* ==========================================
+/* 
    About Section (Compact & Responsive)
-   ========================================== */
+*/
 
 .about-section {
     padding: 80px 20px;
@@ -352,9 +350,9 @@ body {
         width: 100%;
     }
 }
-/* ==========================================
+/* 
    Skills Section Styles
-   ========================================== */
+*/
 
 .skills-section {
     padding: 80px 20px;
@@ -438,9 +436,9 @@ body {
         grid-template-columns: 1fr;
     }
 }
-/* ==========================================
+/* 
    Projects Section (Compact CSS)
-   ========================================== */
+*/
 
 .projects-section {
     padding: 80px 20px;
@@ -488,9 +486,9 @@ body {
 .project-title { font-size: 1.15rem; font-weight: 700; color: var(--mono-1000); }
 .project-desc { font-size: 0.88rem; color: var(--mono-600); line-height: 1.5; }
 .project-link { margin-top: auto; font-size: 0.85rem; font-weight: 600; color: var(--mono-1000); text-decoration: none; }
-/* ==========================================
+/* 
    Education Section (Compact CSS)
-   ========================================== */
+ */
 
 .education-section {
     padding: 80px 20px;
@@ -556,9 +554,9 @@ body {
     color: var(--mono-600);
     line-height: 1.5;
 }
-/* ==========================================
+/* 
    Contact Section & Footer (Compact)
-   ========================================== */
+ */
 
 .contact-section {
     padding: 80px 20px;
